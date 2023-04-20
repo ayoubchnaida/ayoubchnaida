@@ -20,11 +20,11 @@
        
 ---      
        
-### :woman_technologist: About Me :
+### 🧔‍: About Me :
        
 - :telescope: I’m working as a math teacher with a passion for data engineering and a keen interest in data science and machine learning. Currently pursuing my master's degree in Data Engineering at EHTP.
        
-- :zap: In my free time , I read tech articles.
+- :zap: Particularly interested in Predictive Analytics, Machine Learning and applying statistical models to solve interesting novel business problems..
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-CHNAIDA-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-chnaida-b7357b195/)
 ---
