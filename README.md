@@ -18,6 +18,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjJjODBhYjlmNjU0OWVkNjQ3YzI3YzBjNzU2YjMxZjFkM2YwYzNiNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/vgd2aXjyeUkgUTnfjg/giphy.gif" width="600" height="300"/>
 </div>
 ---
+       
 ### :woman_technologist: About Me :
        
 - :telescope: I’m working as a math teacher with a passion for data engineering and a keen interest in data science and machine learning. Currently pursuing my master's degree in Data Engineering at EHTP.
