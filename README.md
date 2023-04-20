@@ -6,4 +6,6 @@
     <div id="header" align="center">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </div>
+  <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=ayoubchnaida&style=flat-square&color=blue" alt=""/>
+</div>
