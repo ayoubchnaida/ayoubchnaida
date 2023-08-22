@@ -26,7 +26,7 @@
        
 - :zap: Particularly interested in Predictive Analytics, Machine Learning and applying statistical models to solve interesting novel business problems..
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-CHNAIDA-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-chnaida-b7357b195/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-CHNAIDA-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayyoub-chnaida-133b02275/)
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
